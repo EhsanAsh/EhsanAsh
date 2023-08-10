@@ -12,17 +12,16 @@ I'm a **Full-Stack Development** student at the University of Toronto. 🎓
 ![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🌱 I'm currently learning:
-[Add other technologies or languages you're learning]
+[Server-side API's]
 
 ## 📫 Get in touch:
 - Email: [Gmail](mailto:ehsan.ashrafipour@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ehsan-ashrafipour-922056245/)
 
 📊 **This Week I Spent My Time On**:
+
 <!--START_SECTION:waka-->
-```text
-JavaScript   4 hrs 22 mins   ██████████████▓░░░░░░░░░░   58.65 % 
-HTML         2 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░   28.59 % 
-CSS          1 hr            ███▒░░░░░░░░░░░░░░░░░░░░   12.76 %
+
 <!--END_SECTION:waka-->
+
 Thanks for dropping by! 😊
