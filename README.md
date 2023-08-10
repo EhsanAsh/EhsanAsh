@@ -1,5 +1,9 @@
 # Hi there, I'm Ehsan Ashrafipour! 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
+---
+
 I'm a **Full-Stack Development** student at the University of Toronto. 🎓
 
 ## 🛠️ Technologies & Tools
@@ -11,12 +15,18 @@ I'm a **Full-Stack Development** student at the University of Toronto. 🎓
 ![](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
 ## 🌱 I'm currently learning:
 *Server-side API's*
+
+---
 
 ## 📫 Get in touch:
 - Email: [Gmail](mailto:ehsan.ashrafipour@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ehsan-ashrafipour-922056245/)
+
+---
 
 📊 **This Week I Spent My Time On**:
 
