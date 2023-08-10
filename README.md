@@ -21,7 +21,6 @@ I'm a **Full-Stack Development** student at the University of Toronto. 🎓
 📊 **This Week I Spent My Time On**:
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 Thanks for dropping by! 😊
