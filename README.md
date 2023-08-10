@@ -12,7 +12,7 @@ I'm a **Full-Stack Development** student at the University of Toronto. 🎓
 ![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🌱 I'm currently learning:
-[Server-side API's]
+*Server-side API's*
 
 ## 📫 Get in touch:
 - Email: [Gmail](mailto:ehsan.ashrafipour@gmail.com)
