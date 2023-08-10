@@ -1,21 +1,23 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: EhsanAsh/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: EhsanAsh/EhsanAsh
+          REPOSITORY: athul/athul
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
@@ -33,5 +35,5 @@ jobs:
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: EhsanAsh
-          AUTHOR_EMAIL: ehsan.ashrafipour@gmail.com
+          AUTHOR_NAME: Athul
+          AUTHOR_EMAIL: athul@example.org
