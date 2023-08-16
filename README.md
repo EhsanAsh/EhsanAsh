@@ -25,6 +25,7 @@ I'm a **Full-Stack Development** student at the University of Toronto. 🎓
 ## 📫 Get in touch:
 - Email: [Gmail](mailto:ehsan.ashrafipour@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ehsan-ashrafipour-922056245/)
+- Portfolio: [EhsanAsh-Portfolio](https://ehsanash.github.io/my_portfolio/)
 
 ---
 
