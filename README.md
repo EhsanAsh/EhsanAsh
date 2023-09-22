@@ -31,8 +31,8 @@ I'm a **Full-Stack Development** student at the University of Toronto. 🎓
 ---
 
 ## 📫 Get in touch:
-- Email: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[Gmail](mailto:ehsan.ashrafipour@gmail.com)
-- LinkedIn: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[LinkedIn](https://www.linkedin.com/in/ehsan-ashrafipour-922056245/)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[Gmail](mailto:ehsan.ashrafipour@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[LinkedIn](https://www.linkedin.com/in/ehsan-ashrafipour-922056245/)
 - Portfolio: [EhsanAsh-Portfolio](https://ehsanash.github.io/my_portfolio/)
 
 ---
