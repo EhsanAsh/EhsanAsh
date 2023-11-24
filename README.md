@@ -49,4 +49,6 @@ I'm a **Full-Stack Development** student at the University of Toronto. 🎓
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanAsh&layout=compact&theme=radical&count_private=true)](https://github.com/EhsanAsh)
 
+[![EhsanAsh's GitHub | Stats](https://stats.quine.sh/EhsanAsh/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=EhsanAsh)
+
 Thanks for dropping by! 😊
