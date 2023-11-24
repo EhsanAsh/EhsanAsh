@@ -45,9 +45,10 @@ I'm a **Full-Stack Development** student at the University of Toronto. 🎓
 
 📊 **My GitHub Stats**:
 
+[![EhsanAsh's GitHub | Languages Over Time](https://stats.quine.sh/EhsanAsh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EhsanAsh)
+
 [![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EhsanAsh&show_icons=true&count_private=true&theme=radical)](https://github.com/EhsanAsh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanAsh&layout=compact&theme=radical&count_private=true)](https://github.com/EhsanAsh)
-[![EhsanAsh's GitHub | Languages Over Time](https://stats.quine.sh/EhsanAsh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EhsanAsh)
 [![EhsanAsh's GitHub | Stats](https://stats.quine.sh/EhsanAsh/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=EhsanAsh)
 
 Thanks for dropping by! 😊
