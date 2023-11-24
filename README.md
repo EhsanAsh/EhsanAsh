@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
+[![EhsanAsh's GitHub | Stats](https://stats.quine.sh/EhsanAsh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EhsanAsh)
+
 ---
 
 I'm a **Full-Stack Development** student at the University of Toronto. 🎓
@@ -49,6 +51,5 @@ I'm a **Full-Stack Development** student at the University of Toronto. 🎓
 
 [![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EhsanAsh&show_icons=true&count_private=true&theme=radical)](https://github.com/EhsanAsh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanAsh&layout=compact&theme=radical&count_private=true)](https://github.com/EhsanAsh)
-[![EhsanAsh's GitHub | Stats](https://stats.quine.sh/EhsanAsh/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=EhsanAsh)
 
 Thanks for dropping by! 😊
