@@ -1,7 +1,5 @@
 # Hi there, I'm Ehsan Ashrafipour! 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
-
 [![EhsanAsh's GitHub | Stats](https://stats.quine.sh/EhsanAsh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EhsanAsh)
 
 ---
