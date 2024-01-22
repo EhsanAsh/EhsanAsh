@@ -1,9 +1,5 @@
 # Hi there, I'm Ehsan Ashrafipour! 👋
 
-[![EhsanAsh's GitHub | Stats](https://stats.quine.sh/EhsanAsh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EhsanAsh)
-
----
-
 ## I'm a *Full-Stack Development* student at the University of Toronto. 🎓
 
 ## 🛠️ Technologies & Tools
