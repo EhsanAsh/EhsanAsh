@@ -1,6 +1,6 @@
 # Hi there, I'm Ehsan Ashrafipour! 👋
 
-## I'm a *Full-Stack Development* student at the University of Toronto. 🎓
+## I'm a *Full-Stack Application Developer* . 🎓
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
